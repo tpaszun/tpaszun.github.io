@@ -1,0 +1,60 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300&subset=latin,latin-ext);
+
+body {
+  padding: 50px;
+  font-family: "Helvetica Neue", "Segoe UI", "Open Sans", sans-serif;
+  max-width: 500px;
+  margin: auto;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 60px;
+  margin: 0px;
+}
+
+a {
+  color: #00B7FF;
+  text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.subtitle {
+  font-weight: 100;
+  font-size: 60px;
+	color: #CECECE;
+	margin-bottom: 50px;
+}
+
+.content {
+	font-size: 14px;
+	font-weight: 200;
+    line-height: 24px;
+}
+
+footer {
+	margin-top: 50px;
+	font-size: 16px;
+	font-weight: 200;
+}
+
+footer ul {
+	padding-left: 0px;
+	list-style: none;
+}
+
+footer ul.links {
+	float: left;
+}
+
+footer ul li {
+	display: inline;
+	margin-right: 5px;
+}
+
+footer ul.lng {
+	float: right;
+}
